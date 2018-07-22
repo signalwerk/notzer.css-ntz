@@ -1,0 +1,23 @@
+{
+  "name": "notzer.css-ntz",
+  "version": "1.0.1",
+  "description": "Notzer default CSS-Rules to convert HTML",
+  "main": "./src/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm:next": "npm version patch && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://signalwerk@github.com/signalwerk/notzer.css-ntz.git"
+  },
+  "keywords": [
+    "Notzer"
+  ],
+  "author": "Stefan Huber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/signalwerk/notzer.css-ntz/issues"
+  },
+  "homepage": "https://github.com/signalwerk/notzer.css-ntz#readme"
+}
