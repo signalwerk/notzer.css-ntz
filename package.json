@@ -2,7 +2,7 @@
   "name": "notzer.css-ntz",
   "version": "1.0.1",
   "description": "Notzer default CSS-Rules to convert HTML",
-  "main": "./src/index.css",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "npm:next": "npm version patch && npm publish"
