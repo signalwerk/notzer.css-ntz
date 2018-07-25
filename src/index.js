@@ -61,4 +61,4 @@ let CSS = `
     -ntz-processor--title: "";
   }
 `
-exports.default = CSS;
+module.exports = CSS;
