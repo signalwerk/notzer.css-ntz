@@ -1,6 +1,6 @@
 {
   "name": "notzer.css-ntz",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Notzer default CSS-Rules to convert HTML",
   "main": "./src/index.js",
   "scripts": {
