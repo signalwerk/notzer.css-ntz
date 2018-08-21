@@ -44,7 +44,9 @@ let CSS = `
     -ntz-style--width: 200;
     -ntz-style--height: auto;
 
-    -ntz-style--background-position: 200 auto;
+    -ntz-style--background-position: 0 0;
+    -ntz-style--background-size: 200 auto;
+
     -ntz-style--background-PDFCropBounds: 0 0 595 842;
     -ntz-style--background-PDFCropName: CropMedia;
   }
