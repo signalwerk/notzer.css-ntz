@@ -41,13 +41,12 @@ let CSS = `
     -ntz-processor--type: "img";
     -ntz-processor--title: "img";
 
+    -ntz-style--width: 200;
+    -ntz-style--height: auto;
 
-    -ntz-style--width: 20;
-    -ntz-style--height: 10;
-
-    -ntz-style--background-position: 0 0;
-    -ntz-style--background-size: 20 10;
-    -ntz-style--background-clip: 0 0 20 10;
+    -ntz-style--background-position: 200 auto;
+    -ntz-style--background-PDFCropBounds: 0 0 595 842;
+    -ntz-style--background-PDFCropName: CropMedia;
   }
 
   table {
